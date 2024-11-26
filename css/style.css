@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+
+
+img {
+    max-width:100%;
+   background-color: rgb(233, 205, 252);
+}
+
+body{
+background-color: rgba(237, 172, 247, 0.763);
+}
+header{
+background-color: rgb(162, 97, 181);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+padding:20px;
+margin: 0px;
+font-size:32px;
+color:white;
+}
+
+
+.button {
+    display:flex;
+    justify-content: space-between;
+    padding:20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(206, 145, 224);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgb(131, 35, 110);
+font-size: 24px;
+}
+.button-active {
+    background-color: rgb(246, 219, 254);
+    padding: 20px;
+    
+}
+.zalea{
+    max-width: -80%;
+    padding-left: 100px;
+    padding-right: 100px;
+}
